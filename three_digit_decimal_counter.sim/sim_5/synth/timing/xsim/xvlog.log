@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.sim/sim_5/synth/timing/xsim/tb_ip_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-311] analyzing module counterer_1hz
+INFO: [VRFC 10-311] analyzing module three_counter
+INFO: [VRFC 10-311] analyzing module three_digit_decimal_counter
+INFO: [VRFC 10-311] analyzing module glbl

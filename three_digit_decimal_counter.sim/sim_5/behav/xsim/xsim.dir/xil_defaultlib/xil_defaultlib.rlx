@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v,1650697937,verilog,,,,clk_wiz_0;clk_wiz_0_clk_wiz,,,,,,,,
+D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.sim/sim_5/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.srcs/sim_5/new/tb_ip.vhd,1651716869,vhdl,,,,tb_ip,,,,,,,,
+D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.srcs/sources_1/new/counter.vhd,1650661198,vhdl,,,,counter,,,,,,,,
+D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.srcs/sources_1/new/counterer_1hz.vhd,1650095533,vhdl,,,,counterer_1hz,,,,,,,,
+D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.srcs/sources_1/new/three_counter.vhd,1650648924,vhdl,,,,three_counter,,,,,,,,
+D:/LABWORK/DSD/Lab/three_digit_decimal_counter/three_digit_decimal_counter.srcs/sources_1/new/three_digit_decimal_counter.vhd,1650653067,vhdl,,,,three_digit_decimal_counter,,,,,,,,
